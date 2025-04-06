@@ -1,94 +1,98 @@
-# 🎮🦊 GXGecko — The Open-Source Gamer's Privacy Browser
+<h1 align="center">🎮🦊 GXGecko</h1>
+<p align="center">
+  <strong>The open-source, privacy-first, gamer-friendly browser built on the Gecko engine.</strong><br>
+  Blending the <em>privacy and security of Firefox</em> with the <em>style and performance of Opera GX</em>.
+</p>
 
-**GXGecko** is a fully **open-source**, next-gen browser combining the **privacy-first DNA of Firefox** with the **gamer-friendly power tools of Opera GX** — all built on the battle-tested **Gecko engine**.
-
----
-
-## 🧠 Why GXGecko?
-
-Tired of browsers that force a tradeoff between **privacy**, **speed**, and **style**?  
-**GXGecko** is built to deliver:
-
-- 🛡️ **Privacy** that respects your data and fights surveillance
-- ⚡ **Speed** and performance tuning like no other Gecko-based browser
-- 🎮 **Style** and tools made for gamers, streamers, and power users
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg" alt="License: MPL-2.0">
+  <img src="https://img.shields.io/badge/Engine-Gecko-blue.svg" alt="Gecko Engine">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-blueviolet.svg" alt="Open Source">
+  <img src="https://img.shields.io/badge/Status-In%20Development-orange.svg" alt="In Development">
+</p>
 
 ---
 
-## 🚀 Core Features
+## 🌟 Why GXGecko?
 
-### 🔐 Privacy & Security
-- Enhanced Tracking Protection
-- Total Cookie Protection
-- HTTPS-Only Mode
-- Fingerprinting Resistance
-- Built-in Ad & Script Blocker
-- Container Tabs & Session Isolation
-- No telemetry, ever
-
-### ⚡ Performance Tools
-- CPU, RAM, and Network Limiter (GX-style Control Panel)
-- Background Tab Freezing
-- Asynchronous Tab Loading
-- Hardware-accelerated Media & WebGL
-
-### 🎨 Gamer UI & Sidebar
-- Customizable RGB & Themed UI
-- Sidebar Integration (Discord, Twitch, Spotify, Messenger)
-- Picture-in-Picture Video Player
-- Built-in Game News & Update Feed (Optional)
-
-### 🧩 Power-User Friendly
-- Full WebExtensions API Support
-- Multi-Profile / Container Tab Isolation
-- Vertical Tabs & Searchable Tab List
-- Session Saver & Restorer
-- Private Mode with Canvas + Fingerprint Spoofing
-- Temporary Email Generator Integration
+GXGecko is your new favorite browser if you:
+- Value **privacy** and want protection from trackers and fingerprinting.
+- Love **performance tuning** with CPU, RAM, and network control.
+- Crave a **gamer-oriented UI** with RGB themes, Discord/Twitch sidebars, and a GX-like control panel.
 
 ---
 
-## 🛠️ Built With
+## 🔐 Privacy & Security Features
 
-- 🦎 [Gecko Engine](https://firefox-source-docs.mozilla.org/) (Mozilla)
-- ⚙️ Rust, C++, JavaScript
-- 🪟 Native UI Toolkit / Electron-lite Shell (WIP)
-- 🔐 Open standards + optional WireGuard-based VPN integrations
-
----
-
-## 📦 Project Roadmap
-
-- [ ] Core Browser MVP with WebExtension support
-- [ ] GX Control Panel for performance tuning
-- [ ] Full sidebar ecosystem (Discord, Twitch, etc.)
-- [ ] Dynamic theme engine + gamer presets
-- [ ] Built-in sync & session management
-- [ ] Cross-platform support (Windows, macOS, Linux)
-- [ ] Mobile Companion App (Long-term)
+✅ Enhanced Tracking Protection  
+✅ Total Cookie Isolation  
+✅ Fingerprint Resistance  
+✅ HTTPS-Only Mode  
+✅ Built-in Ad & Script Blocker  
+✅ Container Tabs (per-site isolation)  
+✅ No telemetry — ever  
+✅ Private Mode with spoofing features
 
 ---
 
-## 💻 Open Source & Community
+## ⚙️ Performance Tools
 
-GXGecko is fully **open source** under the **MIT License**. We believe privacy, performance, and good design belong to everyone — not just tech giants.
-
-👾 **Join the community**:
-- 🔥 Star this repo to support the project
-- 🛠️ Contribute with code, UI/UX, or ideas
-- 🐞 Report bugs or suggest features via Issues
-- 🧠 Start a discussion and help shape the future of browsing
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](./LICENSE).  
-Fork it, remix it, build your own — we encourage it.
+⚡ CPU, RAM & Network Limiters (like GX Control Panel)  
+⚡ Async Tab Loading  
+⚡ Tab Freezing (background tabs)  
+⚡ Hardware-Accelerated WebGL & Media  
+⚡ Lightweight, customizable shell  
+⚡ Faster startup, optimized rendering
 
 ---
 
-## 📡 Status
+## 🎨 Gamer-Centric UI
 
-🚧 GXGecko is currently in **early development**. Pre-release builds will be available soon.  
-Follow the repo for updates and early access announcements.
+🎮 RGB-style customizable UI themes  
+🎮 Sidebar integrations (Discord, Twitch, Spotify, Messenger)  
+🎮 Pop-out Video Player (PiP)  
+🎮 Game News & Update Feed  
+🎮 Themed skins (Cyberpunk, Valorant, etc.)
+
+---
+
+## 🧠 Power Features
+
+🧩 Full WebExtension API support (like Firefox)  
+🧩 Multi-profile & tab containers  
+🧩 Tab search, vertical tab layout  
+🧩 Session manager  
+🧩 Temp email generator integration  
+🧩 Smart session & tab restoration  
+🧩 Cloud sync (future)
+
+---
+
+## 🛠️ Tech Stack
+
+| Component        | Description                                |
+|------------------|--------------------------------------------|
+| 🦎 Gecko Engine   | Rendering engine from Mozilla (Firefox)     |
+| ⚙️ Rust/C++/JS    | Core architecture and extensions            |
+| 💻 Electron-lite or Native UI | Lightweight custom UI (WIP)    |
+| 🔐 Open Standards | Security & privacy tools based on FOSS     |
+
+---
+
+## 🗺️ Roadmap
+
+- [ ] MVP with core browsing + extension support  
+- [ ] GX Control Panel (Resource limiter)  
+- [ ] Sidebar ecosystem (Discord, Twitch, etc.)  
+- [ ] Dynamic theme builder  
+- [ ] Cross-platform support (Win/macOS/Linux)  
+- [ ] Sync engine (bookmarks, sessions)  
+- [ ] Companion mobile app (future)
+
+---
+
+## 🧑‍💻 Contributing
+
+We’d love your help building the future of private, performance-focused browsing.  
+Whether it’s **code, ideas, UI/UX, or just feedback** — you’re welcome here!
+
