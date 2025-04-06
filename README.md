@@ -1,7 +1,7 @@
-<h1 align="center">🎮🦊 GXGecko</h1>
+<h1 align="center">👻🦊 Ghostline</h1>
 <p align="center">
-  <strong>The open-source, privacy-first, gamer-friendly browser built on the Gecko engine.</strong><br>
-  Blending the <em>privacy and security of Firefox</em> with the <em>style and performance of Opera GX</em>.
+  <strong>The open-source, privacy-first, gamer-powered browser built on the Gecko engine.</strong><br>
+  Blending the <em>security of Firefox</em> with the <em>performance and design of Opera GX</em>.
 </p>
 
 <p align="center">
@@ -13,23 +13,23 @@
 
 ---
 
-## 🌟 Why GXGecko?
+## 🌟 Why Ghostline?
 
-GXGecko is your new favorite browser if you:
-- Value **privacy** and want protection from trackers and fingerprinting.
-- Love **performance tuning** with CPU, RAM, and network control.
-- Crave a **gamer-oriented UI** with RGB themes, Discord/Twitch sidebars, and a GX-like control panel.
+**Ghostline** is for users who refuse to compromise:
+- 🔐 Stay private with built-in anti-tracking and zero telemetry.
+- ⚡ Customize performance with CPU, RAM, and network control.
+- 🎮 Enjoy a gamer-focused UI with rich theming and live integrations.
 
 ---
 
-## 🔐 Privacy & Security Features
+## 🔐 Privacy & Security
 
 ✅ Enhanced Tracking Protection  
-✅ Total Cookie Isolation  
+✅ Total Cookie Protection  
 ✅ Fingerprint Resistance  
 ✅ HTTPS-Only Mode  
 ✅ Built-in Ad & Script Blocker  
-✅ Container Tabs (per-site isolation)  
+✅ Container Tabs & Site Isolation  
 ✅ No telemetry — ever  
 ✅ Private Mode with spoofing features
 
@@ -37,34 +37,33 @@ GXGecko is your new favorite browser if you:
 
 ## ⚙️ Performance Tools
 
-⚡ CPU, RAM & Network Limiters (like GX Control Panel)  
+⚡ CPU, RAM & Bandwidth Limiters (GX-style Control Panel)  
 ⚡ Async Tab Loading  
-⚡ Tab Freezing (background tabs)  
-⚡ Hardware-Accelerated WebGL & Media  
-⚡ Lightweight, customizable shell  
-⚡ Faster startup, optimized rendering
+⚡ Auto-suspend background tabs  
+⚡ Hardware-accelerated WebGL & Video  
+⚡ Fast startup and optimized rendering paths
 
 ---
 
-## 🎨 Gamer-Centric UI
+## 🎮 Gamer-Centric UI
 
-🎮 RGB-style customizable UI themes  
-🎮 Sidebar integrations (Discord, Twitch, Spotify, Messenger)  
-🎮 Pop-out Video Player (PiP)  
-🎮 Game News & Update Feed  
-🎮 Themed skins (Cyberpunk, Valorant, etc.)
+🎨 RGB-style customizable UI  
+📌 Sidebar apps: Discord, Twitch, Spotify, Messenger  
+🎞️ Picture-in-Picture for video  
+📰 Built-in Game News Feed (optional)  
+🧪 Themed skins (Cyberpunk, Valorant, Vaporwave, etc.)
 
 ---
 
 ## 🧠 Power Features
 
-🧩 Full WebExtension API support (like Firefox)  
-🧩 Multi-profile & tab containers  
-🧩 Tab search, vertical tab layout  
-🧩 Session manager  
-🧩 Temp email generator integration  
-🧩 Smart session & tab restoration  
-🧩 Cloud sync (future)
+🧩 Full support for Firefox-compatible extensions  
+🧩 Multi-profile and container tab management  
+🧩 Vertical tabs and tab search  
+🧩 Smart session saving & cloud sync  
+🧩 Private browsing with spoofed fingerprinting  
+🧩 Temporary email generator integration  
+🧩 Fast tab restore & crash recovery
 
 ---
 
@@ -72,27 +71,30 @@ GXGecko is your new favorite browser if you:
 
 | Component        | Description                                |
 |------------------|--------------------------------------------|
-| 🦎 Gecko Engine   | Rendering engine from Mozilla (Firefox)     |
-| ⚙️ Rust/C++/JS    | Core architecture and extensions            |
-| 💻 Electron-lite or Native UI | Lightweight custom UI (WIP)    |
-| 🔐 Open Standards | Security & privacy tools based on FOSS     |
+| 🦎 Gecko Engine   | Mozilla's rendering engine (used in Firefox) |
+| ⚙️ Rust/C++/JS    | Core application logic and integrations     |
+| 💻 Custom UI Layer | Electron-lite shell or native shell (WIP) |
+| 🌐 WebExtensions | Standardized, open plugin ecosystem         |
 
 ---
 
 ## 🗺️ Roadmap
 
-- [ ] MVP with core browsing + extension support  
-- [ ] GX Control Panel (Resource limiter)  
-- [ ] Sidebar ecosystem (Discord, Twitch, etc.)  
-- [ ] Dynamic theme builder  
+- [ ] Browser core with WebExtension support  
+- [ ] GX-style resource control panel  
+- [ ] Sidebar integrations (Discord, Twitch, etc.)  
+- [ ] Theme engine with presets & editor  
 - [ ] Cross-platform support (Win/macOS/Linux)  
-- [ ] Sync engine (bookmarks, sessions)  
-- [ ] Companion mobile app (future)
+- [ ] Bookmark/tab/session sync  
+- [ ] Mobile companion app (future)
 
 ---
 
-## 🧑‍💻 Contributing
+## 💻 Contributing
 
-We’d love your help building the future of private, performance-focused browsing.  
-Whether it’s **code, ideas, UI/UX, or just feedback** — you’re welcome here!
+Ghostline is proudly open-source under **MPL-2.0**.  
+Whether you're a dev, designer, tester, or just full of ideas — you're welcome here.
 
+```bash
+git clone https://github.com/yourusername/ghostline.git
+cd ghostline
